@@ -1,0 +1,42 @@
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe.config
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\bin\Debug\FileOrganize.pdb
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csprojResolveAssemblyReference.cache
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\obj\Debug\FileOrganize.Form1.resources
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\obj\Debug\FileOrganize.Properties.Resources.resources
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csproj.GenerateResource.Cache
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\obj\Debug\FileOrganize.exe
+c:\users\fasantos\documents\visual studio 2012\Projects\FileOrganize\FileOrganize\obj\Debug\FileOrganize.pdb
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe.config
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\FileOrganize.pdb
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.frmPrincipal.resources
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.Properties.Resources.resources
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csproj.GenerateResource.Cache
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.exe
+D:\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.pdb
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe.config
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.exe
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.pdb
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\FileOrganize.pdb
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csprojResolveAssemblyReference.cache
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.frmPrincipal.resources
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.Properties.Resources.resources
+C:\Winfun\Workspace\Fontes\FI-TISSU\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csproj.GenerateResource.Cache
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe.config
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\bin\Debug\FileOrganize.exe
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\bin\Debug\FileOrganize.pdb
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.frmPrincipal.resources
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.Properties.Resources.resources
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csproj.GenerateResource.cache
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csproj.CoreCompileInputs.cache
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.csproj.CopyComplete
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.exe
+D:\Documentos\cofigo fonte\FileOrganize\FileOrganize\obj\Debug\FileOrganize.pdb
